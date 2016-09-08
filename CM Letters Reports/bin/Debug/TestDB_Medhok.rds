@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="TestDB_Medhok">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=MSSQLSERVER;Initial Catalog=testdb</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>18aa5309-bfea-4211-b14c-11f63f5a2f1d</DataSourceID>
+</RptDataSource>

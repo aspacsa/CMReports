@@ -189,7 +189,7 @@
   <Width>7.11333in</Width>
   <Page>
     <PageHeader>
-      <Height>0.86333in</Height>
+      <Height>1.23833in</Height>
       <PrintOnFirstPage>true</PrintOnFirstPage>
       <PrintOnLastPage>true</PrintOnLastPage>
       <ReportItems>
@@ -200,7 +200,7 @@
             <Paragraph>
               <TextRuns>
                 <TextRun>
-                  <Value>Orphan Letters Report</Value>
+                  <Value>Orphan Letters Report - Details</Value>
                   <Style>
                     <FontWeight>Bold</FontWeight>
                   </Style>
@@ -212,8 +212,8 @@
             </Paragraph>
           </Paragraphs>
           <rd:DefaultName>Textbox7</rd:DefaultName>
-          <Top>0.16333in</Top>
-          <Left>1.17167in</Left>
+          <Top>0.56611in</Top>
+          <Left>2.45667in</Left>
           <Height>0.25in</Height>
           <Width>2.2in</Width>
           <Style>
@@ -243,11 +243,45 @@
             </Paragraph>
           </Paragraphs>
           <rd:DefaultName>Textbox9</rd:DefaultName>
-          <Top>0.54389in</Top>
-          <Left>1.17167in</Left>
+          <Top>0.84389in</Top>
+          <Left>2.45667in</Left>
           <Height>0.25in</Height>
           <Width>2.2in</Width>
           <ZIndex>1</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="Textbox2">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>Health Services Department</Value>
+                  <Style>
+                    <FontWeight>Bold</FontWeight>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Center</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Textbox1</rd:DefaultName>
+          <Top>0.165in</Top>
+          <Left>2.58166in</Left>
+          <Height>0.25in</Height>
+          <Width>1.95in</Width>
+          <ZIndex>2</ZIndex>
           <Style>
             <Border>
               <Style>None</Style>
@@ -288,7 +322,7 @@
           </Paragraphs>
           <rd:DefaultName>PageNumber</rd:DefaultName>
           <Top>0.25833in</Top>
-          <Left>0.94111in</Left>
+          <Left>2.89278in</Left>
           <Height>0.25in</Height>
           <Width>0.44222in</Width>
           <Style>
@@ -319,7 +353,7 @@
           </Paragraphs>
           <rd:DefaultName>TotalPages</rd:DefaultName>
           <Top>0.25833in</Top>
-          <Left>1.58in</Left>
+          <Left>3.53167in</Left>
           <Height>0.25in</Height>
           <Width>1in</Width>
           <ZIndex>1</ZIndex>
@@ -349,7 +383,7 @@
           </Paragraphs>
           <rd:DefaultName>Textbox13</rd:DefaultName>
           <Top>0.25833in</Top>
-          <Left>0.455in</Left>
+          <Left>2.40667in</Left>
           <Height>0.25in</Height>
           <Width>0.41667in</Width>
           <ZIndex>2</ZIndex>
@@ -379,7 +413,7 @@
           </Paragraphs>
           <rd:DefaultName>Textbox14</rd:DefaultName>
           <Top>0.25833in</Top>
-          <Left>1.38in</Left>
+          <Left>3.33166in</Left>
           <Height>0.25in</Height>
           <Width>0.20833in</Width>
           <ZIndex>3</ZIndex>

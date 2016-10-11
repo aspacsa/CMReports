@@ -355,7 +355,7 @@
             <Paragraph>
               <TextRuns>
                 <TextRun>
-                  <Value>Letter's Report</Value>
+                  <Value>Health Services Department</Value>
                   <Style>
                     <FontWeight>Bold</FontWeight>
                   </Style>
@@ -367,10 +367,10 @@
             </Paragraph>
           </Paragraphs>
           <rd:DefaultName>Textbox1</rd:DefaultName>
-          <Top>0.14667in</Top>
-          <Left>3.09722in</Left>
+          <Top>0.09722in</Top>
+          <Left>2.7625in</Left>
           <Height>0.25in</Height>
-          <Width>1.41667in</Width>
+          <Width>1.95in</Width>
           <Style>
             <Border>
               <Style>None</Style>
@@ -399,7 +399,7 @@
           </Paragraphs>
           <rd:DefaultName>Textbox9</rd:DefaultName>
           <Top>0.68056in</Top>
-          <Left>2.61111in</Left>
+          <Left>2.6375in</Left>
           <Height>0.25in</Height>
           <Width>2.2in</Width>
           <ZIndex>1</ZIndex>
@@ -420,7 +420,7 @@
             <Paragraph>
               <TextRuns>
                 <TextRun>
-                  <Value>=IIF(Parameters!Received.Value = "1", "Letters Received", "Letters Not Received")</Value>
+                  <Value>=IIF(Parameters!Received.Value = "1", "Letters Received Report", "Letters Not Received Report")</Value>
                   <Style />
                 </TextRun>
               </TextRuns>
@@ -430,8 +430,8 @@
             </Paragraph>
           </Paragraphs>
           <rd:DefaultName>Textbox12</rd:DefaultName>
-          <Top>0.36111in</Top>
-          <Left>3.09722in</Left>
+          <Top>0.38889in</Top>
+          <Left>3.0375in</Left>
           <Height>0.25in</Height>
           <Width>1.4in</Width>
           <ZIndex>2</ZIndex>
@@ -475,7 +475,7 @@
           </Paragraphs>
           <rd:DefaultName>PageNumber</rd:DefaultName>
           <Top>0.375in</Top>
-          <Left>3.09722in</Left>
+          <Left>3.19861in</Left>
           <Height>0.25in</Height>
           <Width>0.44222in</Width>
           <Style>
@@ -506,7 +506,7 @@
           </Paragraphs>
           <rd:DefaultName>TotalPages</rd:DefaultName>
           <Top>0.375in</Top>
-          <Left>3.73611in</Left>
+          <Left>3.8375in</Left>
           <Height>0.25in</Height>
           <Width>1in</Width>
           <ZIndex>1</ZIndex>
@@ -536,7 +536,7 @@
           </Paragraphs>
           <rd:DefaultName>Textbox13</rd:DefaultName>
           <Top>0.375in</Top>
-          <Left>2.61111in</Left>
+          <Left>2.7125in</Left>
           <Height>0.25in</Height>
           <Width>0.41667in</Width>
           <ZIndex>2</ZIndex>
@@ -566,7 +566,7 @@
           </Paragraphs>
           <rd:DefaultName>Textbox14</rd:DefaultName>
           <Top>0.375in</Top>
-          <Left>3.53611in</Left>
+          <Left>3.6375in</Left>
           <Height>0.25in</Height>
           <Width>0.20833in</Width>
           <ZIndex>3</ZIndex>

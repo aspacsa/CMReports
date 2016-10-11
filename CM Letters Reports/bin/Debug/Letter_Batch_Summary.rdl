@@ -484,7 +484,7 @@
   <Width>9.655in</Width>
   <Page>
     <PageHeader>
-      <Height>1in</Height>
+      <Height>1.275in</Height>
       <PrintOnFirstPage>true</PrintOnFirstPage>
       <PrintOnLastPage>true</PrintOnLastPage>
       <ReportItems>
@@ -495,7 +495,7 @@
             <Paragraph>
               <TextRuns>
                 <TextRun>
-                  <Value>Letter Batch Summary Report</Value>
+                  <Value>Letters Received Report – Summary</Value>
                   <Style>
                     <FontWeight>Bold</FontWeight>
                   </Style>
@@ -507,10 +507,10 @@
             </Paragraph>
           </Paragraphs>
           <rd:DefaultName>Textbox1</rd:DefaultName>
-          <Top>0.255in</Top>
-          <Left>3.73833in</Left>
+          <Top>0.56111in</Top>
+          <Left>3.59in</Left>
           <Height>0.25in</Height>
-          <Width>2.18333in</Width>
+          <Width>2.475in</Width>
           <Style>
             <Border>
               <Style>None</Style>
@@ -538,11 +538,45 @@
             </Paragraph>
           </Paragraphs>
           <rd:DefaultName>Textbox9</rd:DefaultName>
-          <Top>0.68056in</Top>
+          <Top>0.86667in</Top>
           <Left>3.72167in</Left>
           <Height>0.25in</Height>
           <Width>2.2in</Width>
           <ZIndex>1</ZIndex>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="Textbox2">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>Health Services Department</Value>
+                  <Style>
+                    <FontWeight>Bold</FontWeight>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Center</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>Textbox1</rd:DefaultName>
+          <Top>0.24167in</Top>
+          <Left>3.8525in</Left>
+          <Height>0.25in</Height>
+          <Width>1.95in</Width>
+          <ZIndex>2</ZIndex>
           <Style>
             <Border>
               <Style>None</Style>
